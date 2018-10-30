@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorMatch</string>
+    <string name="sample_text">SampleText</string>
+    <string name="set">Set</string>
+    <string name="bold_text">Bold Text</string>
+    <string name="text_color_example">ff000080</string>
+    <string name="background_color_example">ffffffe0</string>
+    <string name="text_color">Text Color</string>
+    <string name="bg_color">Bg color</string>
+</resources>
